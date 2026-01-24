@@ -1,0 +1,7 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>at.htl.board</groupId>
+    <artifactId>board</artifactId>
+    <version>0.9.0</version>
+</project>
