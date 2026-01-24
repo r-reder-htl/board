@@ -73,6 +73,7 @@ BoardMavenSolo (sauber mit extra dependency to core.jar von processing))
 
 Hier die Anleitung, wenn du es manuell machen möchtest.
 Die aktuell board.jar Datei findest du in diesem Repo unter ./repo/...
+Die jar-Datei ohne "-solo-" hat processing schon integriert.
 
 ```bash
 javac -cp .:board.jar MyGame.java
