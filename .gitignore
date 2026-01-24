@@ -25,6 +25,7 @@ dependency-reduced-pom.xml
 *.class
 *.zip
 doc
+*.pdf
 
 # Exclude for ignore
 !repo/**/*.jar
