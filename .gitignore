@@ -1,0 +1,4 @@
+BoardMavenSolo/target/
+*.class
+*.zip
+doc
