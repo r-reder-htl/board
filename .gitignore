@@ -1,4 +1,30 @@
-BoardMavenSolo/target/
+# IDEs
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+
+# Maven / Java
+target/
+out/
+*.class
+*.jar
+*.war
+*.ear
+dependency-reduced-pom.xml
+*.log
+
+# OS / Editor
+.DS_Store
+*.swp
+*~
+
+.
 *.class
 *.zip
 doc
+
+# Exclude for ignore
+!repo/**/*.jar
